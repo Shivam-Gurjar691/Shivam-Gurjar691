@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I am Shivam Gurjar 👋
 
-<!--
-**Shivam-Gurjar691/Shivam-Gurjar691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate and currently a **Predoc Fellow / Project Associate at IIT Ropar**.
 
-Here are some ideas to get you started:
+My current work focuses on **Computer Science Education, Artificial Intelligence in Education, Learning Sciences, and Educational Technology**. I contribute to the development of the **CSE Concept Laboratory**, where I work on interactive, game and real-life scenario-based learning activities for teaching core Computer Science concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Qualifications
+
+* **B.Tech in Computer Science & Engineering (Data Science)** — Shri Vaishnav Institute of Information Technology, Indore | 2021–2025
+* **UGC NET – Computer Science & Applications** — Qualified | **95.5 Percentile** | 2026
+* **NPTEL Certifications** — Programming in Java, Cloud Computing, Introduction to IoT
+
+### 🔍 Areas of Interest
+
+* Computer Science Education
+* AI in Education
+* Educational Technology
+* Generative AI & LLMs
+* Interactive Learning Systems
+* Blockchain
+* Data Base and Networking
+
+### 🛠️ Technical Interests
+
+**Languages:** C, C++, Java, Python, JavaScript, SQL
+**AI/Data:** Machine Learning, Generative AI, Pandas, NumPy, Scikit-learn
+**Web:** React, Node.js, Express.js, MongoDB, REST APIs
+**Tools:** Git, GitHub, Docker, Jupyter Notebook, VS Code
+
+Previously, I worked as a **Research Intern at IIT Kharagpur**, exploring Blockchain, Generative AI, smart contracts, consensus mechanisms, and LLM/Transformer-based applications.
