@@ -22,9 +22,11 @@ My current work focuses on **Computer Science Education, Artificial Intelligence
 
 ### 🛠️ Technical Interests
 
-**Languages:** C, C++, Java, Python, JavaScript, SQL
-**AI/Data:** Machine Learning, Generative AI, Pandas, NumPy, Scikit-learn
-**Web:** React, Node.js, Express.js, MongoDB, REST APIs
-**Tools:** Git, GitHub, Docker, Jupyter Notebook, VS Code
+| Category | Technologies |
+|---|---|
+| **Languages** | C, C++, Java, Python, JavaScript, SQL |
+| **AI/Data** | Machine Learning, Generative AI, Pandas, NumPy, Scikit-learn |
+| **Web** | React, Node.js, Express.js, MongoDB, REST APIs |
+| **Tools** | Git, GitHub, Docker, Jupyter Notebook, VS Code |
 
 Previously, I worked as a **Research Intern at IIT Kharagpur**, exploring Blockchain, Generative AI, smart contracts, consensus mechanisms, and LLM/Transformer-based applications.
